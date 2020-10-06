@@ -1,9 +1,7 @@
 ![me](https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif)
-<p align='center'>
-<a href="https://www.linkedin.com/in/rajdeep-ghosh-b518bb1b1/"><img height="30" src="https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/1.png"></a>&nbsp;&nbsp;
-<a href="mailto:ghoshrajdeep2000@gmail.com"><img height="30" src="https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/2.png"></a>&nbsp;&nbsp; 
-</p>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rajdeep-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajdeep-ghosh-b518bb1b1/)](https://www.linkedin.com/in/rajdeep-ghosh-b518bb1b1/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-aghoshrajdeep2000@gmail.com-c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ghoshrajdeep2000@gmail.com)](mailto:ghoshrajdeep2000@gmail.com)
 <!--
 **Rajdeep-G/Rajdeep-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
