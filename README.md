@@ -1,4 +1,4 @@
-![me](https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif)
+<center>![me](https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif)</center>
 ### Hi there 👋
 
 <!--
