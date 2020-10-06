@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me:
- - ** Undegrad in Computer Sciende & Technology from IIEST, Shibput ** 
- - 💻 Prior experience with ** Python, Flutter, C** ,** C++, ReactJS, VueJS, HTML, CSS, JavaScript **
+ - **Undegrad in Computer Sciende & Technology from IIEST, Shibpur** 
+ - 💻 Prior experience with **Python, Flutter, C, C++, ReactJS, VueJS, HTML, CSS, JavaScript**
 ## Love to play with:
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
