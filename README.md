@@ -1,4 +1,4 @@
-# (https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif)
+https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif
 ### Hi there 👋
 
 <!--
