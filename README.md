@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me:
- - **Undegrad in Computer Sciende & Technology from IIEST, Shibpur** 
+ - **Undegrad in Computer Science & Technology from IIEST, Shibpur** 
  - 💻 Prior experience with **Python, Flutter, C, C++, ReactJS, VueJS, HTML, CSS, JavaScript**
 ## Love to play with:
 <p align="left">
