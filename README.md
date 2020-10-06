@@ -1,5 +1,8 @@
 ![me](https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif)
 ### Hi there 👋
+<p align='center'>
+<a href="https://www.linkedin.com/in/rajdeep-ghosh-b518bb1b1/"><img height="30" src="https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/1.png"></a>&nbsp;&nbsp;
+</p>
 
 <!--
 **Rajdeep-G/Rajdeep-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
