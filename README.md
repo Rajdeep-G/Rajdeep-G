@@ -1,4 +1,4 @@
-# [![Rajdeep Ghosh header](https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/raj-bannner.png)]
+# [![Rajdeep Ghosh header](https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif)]
 ### Hi there 👋
 
 <!--
