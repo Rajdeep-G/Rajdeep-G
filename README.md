@@ -1,5 +1,4 @@
 ![me](https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/header.gif)
-### Hi there 👋
 <p align='center'>
 <a href="https://www.linkedin.com/in/rajdeep-ghosh-b518bb1b1/"><img height="30" src="https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/1.png"></a>&nbsp;&nbsp;
 <a href="mailto:ghoshrajdeep2000@gmail.com"><img height="30" src="https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/2.png"></a>&nbsp;&nbsp; 
@@ -19,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rajdeep-G&&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="75%"/>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajdeep-G" alt="Rajdeep-G" /> </p>
