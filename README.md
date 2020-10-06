@@ -2,6 +2,7 @@
 ### Hi there 👋
 <p align='center'>
 <a href="https://www.linkedin.com/in/rajdeep-ghosh-b518bb1b1/"><img height="30" src="https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/1.png"></a>&nbsp;&nbsp;
+<a href="ghoshrajdeep2000@gmail.com"><img height="30" src="https://raw.githubusercontent.com/Rajdeep-G/Rajdeep-G/main/icon/2.png"></a>&nbsp;&nbsp; 
 </p>
 
 <!--
