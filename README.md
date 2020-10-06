@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My profiles:
+ - <a href="https://codeforces.com/profile/Rajdeep2k" target="blank">Codeforces</a>
+ - <a href="https://www.codechef.com/users/raj_deep19" target="blank">Codechef</a>
+ 
+
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep-G&&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="50%"/>
 </p>
